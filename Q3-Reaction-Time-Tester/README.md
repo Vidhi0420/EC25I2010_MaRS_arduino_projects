@@ -4,10 +4,10 @@ OBJECTIVE:
 To measure human reaction time.
 
 COMPONENTS USED:
-Arduino Uno
-LED
-Push Button
-Connecting Wires
+Arduino Uno,
+LED,
+Push Button,
+Connecting Wires.
 
 WORKING:
 The system waits for a random amount of time using a delay or timing logic.
