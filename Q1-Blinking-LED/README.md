@@ -4,7 +4,10 @@ OBJECTIVE:
 To build a circuit with 3 LEDs, where the LEDs blink at time intervals of 500ms, 1000ms, 1500ms.
 
 COMPONENTS USED:
-Arduino Uno, LEDs, Resistors
+Arduino Uno,
+LEDs,
+Resistors,
+Connecting Wires.
 
 WORKING:
 Each LED is connected to a different digital pin of the Arduino.
