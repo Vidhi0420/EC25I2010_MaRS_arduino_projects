@@ -4,12 +4,12 @@ OBJECTIVE:
 Changing the colour of an RGB LED and controlling the speed of an LED using a potentiometer
 
 COMPONENTS USED:
-Arduino Uno
-RGB LED
-LED
-Potentiometer
-Resistors
-Connecting Wires
+Arduino Uno,
+RGB LED,
+LED,
+Potentiometer,
+Resistors,
+Connecting Wires.
 
 WORKING:
 The potentiometer acts as a variable resistor and provides an analog voltage input to the Arduino(connected to analog pin).
