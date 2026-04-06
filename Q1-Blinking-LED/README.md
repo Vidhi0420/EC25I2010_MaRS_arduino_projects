@@ -1,4 +1,4 @@
-Blinking LED with Different time intervals
+BLINKING LEDs WITH DIFFERENT TIME INTERVALS
 
 OBJECTIVE:
 To build a circuit with 3 LEDs, where the LEDs blink at time intervals of 500ms, 1000ms, 1500ms.
