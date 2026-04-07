@@ -19,3 +19,5 @@ If the button is pressed before the LED turns ON, it is considered a false start
 
 OUTPUT:
 Reaction time is printed when the button is pressed.
+
+TinkerCAD Link: https://www.tinkercad.com/things/gcpsVqX1ucr-reaction-time-tester/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=AzWFl4MjKE44K3Xvq5CNDWtAbMwnMrTySCpsCFqZ4tQ
