@@ -24,3 +24,5 @@ Alert Logic: The Arduino continuously monitors temperature and gas readings. If 
 
 
 OUTPUT: LED glows and buzzer beeps when fire is detected. Serial Monitor always displays the time temperature and gas values.
+
+TinkerCAD link: https://www.tinkercad.com/things/0NehYIyFbmZ/editel?returnTo=%2Fdashboard&sharecode=QsE_9cxaflTWDDRhHstaubTBbJ3H1nQAqXIJLdJr1Lo
