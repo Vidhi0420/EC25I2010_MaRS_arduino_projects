@@ -23,3 +23,5 @@ The buzzer delay is dynamically adjusted using the map() function, so the beepin
 
 OUTPUT:
 Visual and sound alerts based on object distance.
+
+TinkerCAD Link: https://www.tinkercad.com/things/k1zduKfdJMi-smart-distance-alert-system/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=nnkqsi9HlCLEveUjFKw4_v5T5ns12SdPF2XAcvibyh4
