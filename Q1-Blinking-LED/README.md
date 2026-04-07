@@ -17,3 +17,5 @@ This allows the LEDs to blink simultaneously and not by adding up the delay.
 
 OUTPUT:
 The LEDs blink independently at their respective intervals.
+
+TinkerCAD Link: https://www.tinkercad.com/things/lOx3UodjXUJ-blinking-led/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=odkoOeKxCkcvRzDEx2cGcPOWp5KpEuyF8hn5JIVGCWE
