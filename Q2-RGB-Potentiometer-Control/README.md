@@ -20,3 +20,5 @@ Also the map() function decides the speed of toggling ON and OFF (blinking) of t
 
 OUTPUT:
 Changing the potentiometer value changes the colour if the RGB LED as well as the speed of blinking of the normal LED.
+
+TinkerCAD Link: https://www.tinkercad.com/things/3SgAG6wpNiY-rgb-and-blinking-speed-of-an-led/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=nS4u4tNIgt4uXMD6XBVUl7H1aYSz82qzSVMShX_w-hw
