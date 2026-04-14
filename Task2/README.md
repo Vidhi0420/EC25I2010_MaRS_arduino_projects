@@ -10,6 +10,7 @@ L293D Motor Driver,
 Connecting Wires.
 
 Connections:
+
 L293D:
 The Enable 1 & 2 pin is connected to pin 11. Input1 is connected to pin 10. Input2 is connected to pin 9. Output1 is connected to Terminal 1 of the motor.Output2 is connected to Terminal 2 of the motor. The ground pins are connected to ground. The power1 pin is connected to 5V.
 
@@ -20,6 +21,7 @@ Potentiometer:
 Terminal 1 is grounded. The middle pin is connected to the analog pin 0. The terminal 2 is connected to 5V.
 
 Working:
+
 The potentiometer outputs a variable voltage, 
 Arduino reads this value via analog pin A0, 
 It converts the value into PWM (0–255) by dividing it by 4.
