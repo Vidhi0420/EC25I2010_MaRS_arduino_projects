@@ -1,6 +1,7 @@
 Task - 2 : Changing the direction of a motor using a pushbutton and controlling the speed using a regulator
 
 Components used:
+
 Arduino Uno, 
 DC Motor, 
 Pushbutton, 
